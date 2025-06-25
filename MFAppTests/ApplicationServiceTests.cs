@@ -9,6 +9,7 @@ namespace MFApp.Tests.Application.Services
     public class ApplicationServiceTests
     {
         private readonly Mock<IFileReader> _mockFileReader;
+
         private readonly Mock<PortfolioManager> _mockPortfolioManager;
         private readonly ApplicationService _applicationService;
 
