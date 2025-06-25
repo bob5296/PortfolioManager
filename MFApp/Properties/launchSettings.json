@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MFApp": {
+      "commandName": "Project",
+      "commandLineArgs": "sample_input1.txt"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

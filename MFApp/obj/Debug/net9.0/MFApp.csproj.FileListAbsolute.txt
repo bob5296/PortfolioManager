@@ -1,0 +1,46 @@
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\MFApp.exe
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\MFApp.deps.json
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\MFApp.runtimeconfig.json
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\MFApp.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\MFApp.pdb
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.AssemblyInfoInputs.cache
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.AssemblyInfo.cs
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.CoreCompileInputs.cache
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\refint\MFApp.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.pdb
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.genruntimeconfig.cache
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\ref\MFApp.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\xunit.assert.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\bin\Debug\net9.0\xunit.core.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.AssemblyReference.cache
+C:\Users\pkumar1\source\repos\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.Up2Date
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\MFApp.exe
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\MFApp.deps.json
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\MFApp.runtimeconfig.json
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\MFApp.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\MFApp.pdb
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\xunit.abstractions.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\xunit.assert.dll
+C:\Users\pkumar1\source\repos\MFApp\MFApp\geektrust\xunit.core.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\MFApp.exe
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\MFApp.deps.json
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\MFApp.runtimeconfig.json
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\MFApp.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\MFApp.pdb
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\xunit.assert.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\bin\Debug\net9.0\xunit.core.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.AssemblyReference.cache
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.AssemblyInfoInputs.cache
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.AssemblyInfo.cs
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.CoreCompileInputs.cache
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.csproj.Up2Date
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\refint\MFApp.dll
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.pdb
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\MFApp.genruntimeconfig.cache
+C:\Users\pkumar1\OneDrive - Agdata, LP\Desktop\MFApp\MFApp\obj\Debug\net9.0\ref\MFApp.dll
